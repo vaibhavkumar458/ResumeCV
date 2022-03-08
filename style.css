@@ -1,16 +1,8 @@
-/* .img-container { */
-/* height: 500px; */
-/* width: 500px; */
-/* background-image: url("mountain1.jpg"); */
-/* background-repeat: no-repeat; */
-/* background-size: 100% 100%; */
-/* background-attachment: fixed; */
-/* }  */
 
 body {
   margin: 0;
   text-align: center;
-  background-image: url("mountain1.jpg");
+  background-image: url("images/mountain1.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-attachment: fixed;
@@ -18,14 +10,10 @@ body {
 }
 
 h1 {
-  /* margin-top: 0; */
   margin: 100px auto 0 auto;
-  /* padding-top: 80px; */
   font-family: "Sacramento", cursive;
   font-size: 500%;
-  /* color: #655d8a; */
   color: #bb6464;
-  /* line-height: 2; */
 }
 
 h2 {
@@ -37,8 +25,6 @@ h2 {
 
 h3 {
   font-family: "Montserrat", sans-serif;
-  /* color: #495371; */
-  /* color: #393e46; */
   color: #222831;
 }
 hr {
